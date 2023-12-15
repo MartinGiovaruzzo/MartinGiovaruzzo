@@ -19,7 +19,7 @@
   ![PostgreSQL](https://img.shields.io/badge/-MYSQL-333333?style=flat&logo=MYSQL)
 ### Contact Me
 <a href="https://www.linkedin.com/in/martin-giovaruzzo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Martin%20Giovaruzzo-blue?style=flat-square&logo=linkedin"></a>
-<a href="giovaruzzomartin@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Maurovera069@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+<a href="giovaruzzomartin57@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-giovaruzzomartin57@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=MartinGiovaruzzo&show_icons=true)
 
