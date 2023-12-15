@@ -11,9 +11,12 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
+  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+  ![Spring-Boot]([https://img.shields.io/badge/-Spring-Boot-333333?style=flat&logo=spring](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot))
+
   <br/>
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![PostgreSQL](https://img.shields.io/badge/-MYSQL-333333?style=flat&logo=MYSQL)
 ### Contact Me
 <a href="https://www.linkedin.com/in/martin-giovaruzzo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Martin%20Giovaruzzo-blue?style=flat-square&logo=linkedin"></a>
