@@ -6,8 +6,11 @@
 - I am a full stack developer.
 
 ### Technologies
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"     
-  width="20" height="20"/>Java</a>)
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+         alt="Java" 
+         width="20" 
+         height="20" 
+         style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;">
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
