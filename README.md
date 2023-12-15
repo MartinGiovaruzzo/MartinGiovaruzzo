@@ -1,5 +1,5 @@
 <h1>Hello! I'm Martin Giovaruzzo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Backend Developer 🎨</h2>
+<h2>Backend Developer 👨🏼‍💻</h2>
 
 ### About Me
 - I am 24 years old and I am from Mendoza, Argentina.
