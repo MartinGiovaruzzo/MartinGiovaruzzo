@@ -2,17 +2,15 @@
 <h2>Backend Developer 🎨</h2>
 
 ### About Me
-- I am 20 years old and I am from Rosario, Argentina.
-- I am a MERN and PERN full stack developer.
-- I am a self-taught and highly creative individual who seeks to learn and improve every day.
-- I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
+- I am 24 years old and I am from Mendoza, Argentina.
+- I am a full stack developer.
 
 ### Technologies
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
+  ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=JAVA)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
