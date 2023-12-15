@@ -7,6 +7,7 @@
 
 ### Technologies
   ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=JAVA)
+  ![JAVA](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg )
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
